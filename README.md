@@ -109,7 +109,7 @@ Evaluation outputs include:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sakariyakruti-18E/Student-Performance-Prediction.git
+https://github.com/sakariyakruti-18/Student-Performance-Prediction
 ```
 
 ### 2. Navigate to the project directory
